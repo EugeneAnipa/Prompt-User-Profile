@@ -1,0 +1,40 @@
+.first {
+  padding: 2rem;
+  border-color: black;
+  border: 2px;
+  width: 50vh;
+  height: 70vh;
+  border-style: groove;
+  margin-top: 10vh;
+  background-color: #0a6c1b;
+}
+
+img {
+  width: 15vh;
+  height: 15vh;
+  border-radius: 50%;
+}
+.box {
+  background-color: #ff8080;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #d4eaf3;
+}
+
+i {
+  color: #d4eaf3;
+}
+
+.form-check-input {
+  background-color: linear-gradient(hsl(212, 21%, 14%), hsl(150, 9%, 22%));
+}
+
+input:checked + .slider {
+  background-color: black !important;
+}
